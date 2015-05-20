@@ -11,7 +11,9 @@
 ### 找到专辑 id
 - 进入虾米播放器
 - 用 chrome 开发者工具指向左边的某个专辑找到类似：
+
 	<div class="collect-item" data-id="********">
+	
   data-id 的值就是专辑 id
 
 ### Windows
